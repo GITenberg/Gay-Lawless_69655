@@ -1,0 +1,39 @@
+_repo: Gay-Lawless_69655
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mathers, Helen
+    aliases:
+    - Reeves, Helen Buckingham Mathers
+    - Mathers, Helen B. (Helen Buckingham)
+    - Mathews, Ellen Buckingham
+    birthdate: 1853
+    deathdate: 1920
+    gutenberg_agent_id: '55359'
+    url: http://www.gutenberg.org/2009/agents/55359
+    wikipedia: https://en.wikipedia.org/wiki/Ellen_Buckingham_Mathews
+  - agent_name: Reeves, Phil
+    gutenberg_agent_id: '55360'
+    url: http://www.gutenberg.org/2009/agents/55360
+description: ''
+gutenberg_issued: '2022-12-29'
+identifiers:
+  gutenberg: '69655'
+language: en
+pgterms:marc905: 20221128132411mathers
+pgterms:marc906: '1908'
+pgterms:marc907: PG
+production_note: Al Haines
+publication_note: 'Papua New Guinea: Stanley Paul & Co.,1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Horse racing -- Fiction'
+- !lcsh 'Harness racing -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Gay Lawless
+url: http://www.gutenberg.org/ebooks/69655
